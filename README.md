@@ -1,2 +1,2 @@
 # BlyatBoard
-Auto-login for blackboard
+Auto-login for blackboard with TamperMonkey
