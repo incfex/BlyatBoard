@@ -30,5 +30,4 @@
         document.getElementsByClassName("form-element")[1].value = pass;
         document.getElementsByClassName("form-element")[2].click();
     }
-    // Your code here...
 })();
